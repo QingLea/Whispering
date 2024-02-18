@@ -1,0 +1,50 @@
+Price,Currency,Airlines,Departure Time,Departure Timezone,Arrival Time,Arrival Timezone,Duration of Flight,Number of Stops,Stop Summary,Layover Time
+658.24,USD,Austrian,2023-10-16T06:40:00,Europe/Helsinki,2023-10-17T06:00:00,Asia/Shanghai,1100,2,"{'0': {'airport': 'FRA', 'stopDuration': 65}, '1': {'airport': 'VIE', 'stopDuration': 150}}",215
+658.24,USD,Austrian,2023-10-16T06:40:00,Europe/Helsinki,2023-10-17T06:00:00,Asia/Shanghai,1100,2,"{'0': {'airport': 'FRA', 'stopDuration': 115}, '1': {'airport': 'VIE', 'stopDuration': 95}}",210
+772.48,USD,SWISS International Airlines,2023-10-16T16:55:00,Europe/Helsinki,2023-10-19T03:50:00,Asia/Shanghai,3235,2,"{'0': {'airport': 'CPH', 'stopDuration': 960}, '1': {'airport': 'ZRH', 'stopDuration': 1350}}",2310
+772.48,USD,SWISS International Airlines,2023-10-16T16:55:00,Europe/Helsinki,2023-10-19T03:50:00,Asia/Shanghai,3235,2,"{'0': {'airport': 'CPH', 'stopDuration': 1275}, '1': {'airport': 'ZRH', 'stopDuration': 1040}}",2315
+867.68,USD,Lufthansa,2023-10-16T18:15:00,Europe/Helsinki,2023-10-17T14:50:00,Asia/Shanghai,935,1,"{'0': {'airport': 'FRA', 'stopDuration': 70}}",70
+884.00,USD,Lufthansa,2023-10-16T16:55:00,Europe/Helsinki,2023-10-17T14:50:00,Asia/Shanghai,1015,2,"{'0': {'airport': 'CPH', 'stopDuration': 40}, '1': {'airport': 'FRA', 'stopDuration': 75}}",115
+886.72,USD,Lufthansa,2023-10-16T12:50:00,Europe/Helsinki,2023-10-17T14:50:00,Asia/Shanghai,1260,2,"{'0': {'airport': 'MUC', 'stopDuration': 155}, '1': {'airport': 'FRA', 'stopDuration': 180}}",335
+886.72,USD,Lufthansa,2023-10-16T12:50:00,Europe/Helsinki,2023-10-17T14:50:00,Asia/Shanghai,1260,2,"{'0': {'airport': 'MUC', 'stopDuration': 215}, '1': {'airport': 'FRA', 'stopDuration': 120}}",335
+886.72,USD,Lufthansa,2023-10-16T12:50:00,Europe/Helsinki,2023-10-17T14:50:00,Asia/Shanghai,1260,2,"{'0': {'airport': 'MUC', 'stopDuration': 275}, '1': {'airport': 'FRA', 'stopDuration': 60}}",335
+1047.20,USD,Lufthansa,2023-10-16T14:45:00,Europe/Helsinki,2023-10-17T14:50:00,Asia/Shanghai,1145,2,"{'0': {'airport': 'ARN', 'stopDuration': 115}, '1': {'airport': 'FRA', 'stopDuration': 125}}",240
+1175.04,USD,Thai Airways International,2023-10-16T11:10:00,Europe/Helsinki,2023-10-17T16:00:00,Asia/Shanghai,1430,2,"{'0': {'airport': 'ARN', 'stopDuration': 155}, '1': {'airport': 'BKK', 'stopDuration': 295}}",450
+1275.68,USD,KLM Royal Dutch Airlines,2023-10-16T18:10:00,Europe/Helsinki,2023-10-18T09:25:00,Asia/Shanghai,2055,1,"{'0': {'airport': 'AMS', 'stopDuration': 1190}}",1190
+1321.92,USD,Austrian,2023-10-16T07:00:00,Europe/Helsinki,2023-10-17T06:00:00,Asia/Shanghai,1080,2,"{'0': {'airport': 'CPH', 'stopDuration': 130}, '1': {'airport': 'VIE', 'stopDuration': 105}}",235
+1466.08,USD,Air France,2023-10-16T17:45:00,Europe/Helsinki,2023-10-17T16:55:00,Asia/Shanghai,1090,1,"{'0': {'airport': 'CDG', 'stopDuration': 155}}",155
+1474.24,USD,Thai Airways International,2023-10-16T10:00:00,Europe/Helsinki,2023-10-17T16:00:00,Asia/Shanghai,1500,2,"{'0': {'airport': 'CPH', 'stopDuration': 225}, '1': {'airport': 'BKK', 'stopDuration': 285}}",510
+1476.96,USD,Air France,2023-10-16T06:20:00,Europe/Helsinki,2023-10-17T16:55:00,Asia/Shanghai,1775,1,"{'0': {'airport': 'CDG', 'stopDuration': 840}}",840
+1504.16,USD,Air France,2023-10-16T13:55:00,Europe/Helsinki,2023-10-17T16:55:00,Asia/Shanghai,1320,2,"{'0': {'airport': 'AMS', 'stopDuration': 195}, '1': {'airport': 'CDG', 'stopDuration': 145}}",340
+1504.16,USD,Air France,2023-10-16T13:55:00,Europe/Helsinki,2023-10-17T16:55:00,Asia/Shanghai,1320,2,"{'0': {'airport': 'AMS', 'stopDuration': 70}, '1': {'airport': 'CDG', 'stopDuration': 285}}",355
+1504.16,USD,Air France,2023-10-16T13:55:00,Europe/Helsinki,2023-10-17T16:55:00,Asia/Shanghai,1320,2,"{'0': {'airport': 'AMS', 'stopDuration': 145}, '1': {'airport': 'CDG', 'stopDuration': 205}}",350
+1591.20,USD,Cathay Pacific,2023-10-16T07:40:00,Europe/Helsinki,2023-10-17T12:10:00,Asia/Shanghai,1410,2,"{'0': {'airport': 'FRA', 'stopDuration': 265}, '1': {'airport': 'HKG', 'stopDuration': 120}}",385
+1604.80,USD,Finnair,2023-10-16T00:35:00,Europe/Helsinki,2023-10-16T23:50:00,Asia/Shanghai,1095,1,"{'0': {'airport': 'HKG', 'stopDuration': 215}}",215
+1615.68,USD,Finnair,2023-10-16T00:35:00,Europe/Helsinki,2023-10-16T22:05:00,Asia/Shanghai,990,1,"{'0': {'airport': 'HKG', 'stopDuration': 85}}",85
+1735.36,USD,KLM Royal Dutch Airlines,2023-10-16T13:55:00,Europe/Helsinki,2023-10-17T16:55:00,Asia/Shanghai,1320,2,"{'0': {'airport': 'AMS', 'stopDuration': 70}, '1': {'airport': 'CDG', 'stopDuration': 285}}",355
+1735.36,USD,KLM Royal Dutch Airlines,2023-10-16T13:55:00,Europe/Helsinki,2023-10-17T16:55:00,Asia/Shanghai,1320,2,"{'0': {'airport': 'AMS', 'stopDuration': 145}, '1': {'airport': 'CDG', 'stopDuration': 205}}",350
+1735.36,USD,KLM Royal Dutch Airlines,2023-10-16T13:55:00,Europe/Helsinki,2023-10-17T16:55:00,Asia/Shanghai,1320,2,"{'0': {'airport': 'AMS', 'stopDuration': 195}, '1': {'airport': 'CDG', 'stopDuration': 145}}",340
+1762.56,USD,Scandinavian Airlines,2023-10-16T20:35:00,Europe/Helsinki,2023-10-18T13:55:00,Asia/Shanghai,2180,2,"{'0': {'airport': 'ARN', 'stopDuration': 680}, '1': {'airport': 'CPH', 'stopDuration': 645}}",1325
+1762.56,USD,Scandinavian Airlines,2023-10-16T20:35:00,Europe/Helsinki,2023-10-18T13:55:00,Asia/Shanghai,2180,2,"{'0': {'airport': 'ARN', 'stopDuration': 1115}, '1': {'airport': 'CPH', 'stopDuration': 215}}",1330
+1762.56,USD,Scandinavian Airlines,2023-10-16T20:35:00,Europe/Helsinki,2023-10-18T13:55:00,Asia/Shanghai,2180,2,"{'0': {'airport': 'ARN', 'stopDuration': 560}, '1': {'airport': 'CPH', 'stopDuration': 765}}",1325
+1762.56,USD,Scandinavian Airlines,2023-10-16T20:35:00,Europe/Helsinki,2023-10-18T13:55:00,Asia/Shanghai,2180,2,"{'0': {'airport': 'ARN', 'stopDuration': 625}, '1': {'airport': 'CPH', 'stopDuration': 700}}",1325
+1762.56,USD,Scandinavian Airlines,2023-10-16T20:35:00,Europe/Helsinki,2023-10-18T13:55:00,Asia/Shanghai,2180,2,"{'0': {'airport': 'ARN', 'stopDuration': 795}, '1': {'airport': 'CPH', 'stopDuration': 535}}",1330
+1836.00,USD,Cathay Pacific,2023-10-16T08:10:00,Europe/Helsinki,2023-10-17T10:10:00,Asia/Shanghai,1260,2,"{'0': {'airport': 'AMS', 'stopDuration': 150}, '1': {'airport': 'HKG', 'stopDuration': 75}}",225
+1906.72,USD,Turkish Airlines,2023-10-16T19:40:00,Europe/Helsinki,2023-10-17T16:45:00,Asia/Shanghai,965,1,"{'0': {'airport': 'IST', 'stopDuration': 120}}",120
+1925.76,USD,Singapore International Airlines,2023-10-16T18:15:00,Europe/Helsinki,2023-10-17T22:45:00,Asia/Shanghai,1410,2,"{'0': {'airport': 'FRA', 'stopDuration': 130}, '1': {'airport': 'SIN', 'stopDuration': 60}}",190
+1925.76,USD,Singapore International Airlines,2023-10-16T06:40:00,Europe/Helsinki,2023-10-17T13:25:00,Asia/Shanghai,1545,2,"{'0': {'airport': 'FRA', 'stopDuration': 255}, '1': {'airport': 'SIN', 'stopDuration': 75}}",330
+1963.84,USD,Air China,2023-10-16T06:40:00,Europe/Helsinki,2023-10-17T12:55:00,Asia/Shanghai,1515,1,"{'0': {'airport': 'FRA', 'stopDuration': 705}}",705
+1980.16,USD,KLM Royal Dutch Airlines,2023-10-16T07:00:00,Europe/Helsinki,2023-10-17T09:25:00,Asia/Shanghai,1285,1,"{'0': {'airport': 'AMS', 'stopDuration': 415}}",415
+1993.76,USD,Air China,2023-10-16T13:40:00,Europe/Helsinki,2023-10-17T22:45:00,Asia/Shanghai,1685,2,"{'0': {'airport': 'FRA', 'stopDuration': 290}, '1': {'airport': 'PEK', 'stopDuration': 545}}",835
+1993.76,USD,Air China,2023-10-16T13:40:00,Europe/Helsinki,2023-10-18T10:15:00,Asia/Shanghai,2375,2,"{'0': {'airport': 'FRA', 'stopDuration': 290}, '1': {'airport': 'PEK', 'stopDuration': 1235}}",1525
+2007.36,USD,Air China,2023-10-16T13:40:00,Europe/Helsinki,2023-10-18T12:05:00,Asia/Shanghai,2485,2,"{'0': {'airport': 'FRA', 'stopDuration': 1380}, '1': {'airport': 'TFU', 'stopDuration': 160}}",1540
+2034.56,USD,China Southern Airlines,2023-10-16T07:00:00,Europe/Helsinki,2023-10-17T20:30:00,Asia/Shanghai,1950,2,"{'0': {'airport': 'AMS', 'stopDuration': 300}, '1': {'airport': 'CAN', 'stopDuration': 670}}",970
+2227.68,USD,British Airways,2023-10-16T08:00:00,Europe/Helsinki,2023-10-17T07:55:00,Asia/Shanghai,1135,1,"{'0': {'airport': 'LHR', 'stopDuration': 195}}",195
+2880.48,USD,Ethiopian Airlines,2023-10-16T18:15:00,Europe/Helsinki,2023-10-18T15:30:00,Asia/Shanghai,2415,2,"{'0': {'airport': 'FRA', 'stopDuration': 135}, '1': {'airport': 'ADD', 'stopDuration': 1040}}",1175
+2910.40,USD,Air China,2023-10-16T13:40:00,Europe/Helsinki,2023-10-17T12:55:00,Asia/Shanghai,1095,1,"{'0': {'airport': 'FRA', 'stopDuration': 285}}",285
+2913.12,USD,Air China,2023-10-16T13:40:00,Europe/Helsinki,2023-10-17T12:55:00,Asia/Shanghai,1095,1,"{'0': {'airport': 'FRA', 'stopDuration': 285}}",285
+3024.64,USD,Qatar Airways,2023-10-16T17:10:00,Europe/Helsinki,2023-10-17T16:20:00,Asia/Shanghai,1090,1,"{'0': {'airport': 'DOH', 'stopDuration': 165}}",165
+3114.40,USD,China Eastern,2023-10-16T07:00:00,Europe/Helsinki,2023-10-17T05:55:00,Asia/Shanghai,1075,1,"{'0': {'airport': 'AMS', 'stopDuration': 220}}",220
+3119.84,USD,China Eastern,2023-10-16T06:20:00,Europe/Helsinki,2023-10-17T14:40:00,Asia/Shanghai,1640,1,"{'0': {'airport': 'CDG', 'stopDuration': 770}}",770
+3272.16,USD,British Airways,2023-10-16T19:30:00,Europe/Helsinki,2023-10-18T07:55:00,Asia/Shanghai,1885,1,"{'0': {'airport': 'LHR', 'stopDuration': 945}}",945
+7450.08,USD,Cathay Pacific,2023-10-16T07:40:00,Europe/Helsinki,2023-10-17T20:15:00,Asia/Shanghai,1895,2,"{'0': {'airport': 'FRA', 'stopDuration': 690}, '1': {'airport': 'HKG', 'stopDuration': 120}}",810
